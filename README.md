@@ -1,1 +1,3 @@
 # ai_ml_elevate_labs_task5
+
+In this task, we explored tree-based machine learning models for classification using the Heart Disease Dataset. We began by training a Decision Tree Classifier and visualizing its structure to understand how it makes decisions based on input features. To address overfitting, we controlled the tree depth and compared performance before and after pruning. We then trained a Random Forest Classifier, an ensemble method that aggregates multiple decision trees, and observed improved accuracy and robustness. Feature importances were analyzed to interpret which factors most influenced predictions. The models were evaluated using accuracy scores and cross-validation to ensure generalizability. 
